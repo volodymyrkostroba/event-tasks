@@ -7,3 +7,7 @@
     position: absolute;
 }
  */
+
+ table{
+    text-transform: capitalize;
+ }
